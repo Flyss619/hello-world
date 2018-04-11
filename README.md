@@ -1,2 +1,4 @@
 # hello-world
-guide
+Hey world!
+I'm going to Step 3.
+It's interesting to learn everything.
